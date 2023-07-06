@@ -1,0 +1,22 @@
+.contenedor {
+    width: 920px;
+    height: 280px;
+    margin: 0 auto;
+
+    position: relative;
+
+    background: linear-gradient(#b7d6c7, transparent) #ffe2d1;
+    /*linear-gradient(#90ebff, white);*/
+    transition: background-color 1s linear;
+    overflow: hidden;
+}
+
+
+.captus {
+    width: 46px;
+    height: 96px;
+    position: absolute;
+    bottom: 22px;
+    background: url(cactus1.png);
+
+}
